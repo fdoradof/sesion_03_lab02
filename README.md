@@ -20,4 +20,4 @@ Laboratorio para los comandos AD-HOC
 *Consejo: Clonar el repositorio de GitHub en el master para hacer todas las pruebas, es mas, yo crearía los scripts directamente en el server y posteriormente los sincronizaría con github
 
 - Añadir un archivo Word al Proyecto, con un pantallazo de cada ejecución de los scripts anteriores.
-- Subir todo este contenido a GitHub![image](https://user-images.githubusercontent.com/73586925/110910903-3f533600-8312-11eb-9f8b-b6e328f1851e.png)
+- Subir todo este contenido a GitHub!
